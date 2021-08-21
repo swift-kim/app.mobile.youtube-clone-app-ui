@@ -29,8 +29,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
   line_icons:
-  flutter_svg: ^0.18.0
-  video_player: ^1.0.1
+  flutter_svg: ^0.22.0
+  video_player: ^2.1.0
+  video_player_tizen: ^2.0.0
 
 dev_dependencies:
   flutter_test:

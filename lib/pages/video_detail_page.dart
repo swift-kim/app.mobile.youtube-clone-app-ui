@@ -73,7 +73,7 @@ class _VideoDetailPageState extends State<VideoDetailPage> {
     return SafeArea(
       child: Column(
         children: <Widget>[
-          _controller.value.initialized
+          _controller.value.isInitialized
               ? Stack(
                   children: [
                     AspectRatio(
